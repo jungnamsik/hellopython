@@ -14,6 +14,6 @@ print ("Hello World")
 
 
 branche 에서 수정한 내용입니다.
-br1 수정합닏.
+br1 수정합니다. 오타 수정
 
 print("1234")
